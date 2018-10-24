@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1165468,
+      "firstName": "Antonina",
+      "lastName": "Carter",
+      "email": "Joshua.Langosh@yahoo.com"
+    },
+    {
+      "id": 20329548,
+      "firstName": "Brandon",
+      "lastName": "Dickens",
+      "email": "Flo3@hotmail.com"
+    },
+    {
+      "id": 4599599,
+      "firstName": "Soledad",
+      "lastName": "Reilly",
+      "email": "Hallie.Zulauf25@yahoo.com"
+    },
+    {
+      "id": 5533881,
+      "firstName": "Kaela",
+      "lastName": "Lakin",
+      "email": "Felipa.Koelpin@yahoo.com"
+    }
+  ]
+}
